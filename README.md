@@ -40,3 +40,6 @@ Em suma, o projeto não só contribuiu para a compreensão do impacto dos difere
 ## Requisitos
 - Python 3.x
 - pandas
+
+## Instruções
+- Executar `main.py`
