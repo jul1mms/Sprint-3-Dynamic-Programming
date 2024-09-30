@@ -30,9 +30,3 @@ start_time_sqlite = time.perf_counter()
 dados_carregados_sqlite = carregar_dados_sqlite()
 end_time_sqlite = time.perf_counter()
 print(f'Tempo de carregamento dos dados SQLite: {end_time_sqlite - start_time_sqlite:.10f} segundos')
-
-
-#Exibindo os dados carregados (opcional)
-#print("\nDados JSON:", dados_carregados_json)
-#print("\nDados CSV:", dados_carregados_csv)
-#print("\nDados SQLite:", dados_carregados_sqlite)
