@@ -45,9 +45,8 @@ Em suma, o projeto não só contribuiu para a compreensão do impacto dos difere
 - Executar `main.py`
 
 ## Autores
-- Júlia Masson
-- Julia Ortiz
-- Julia Palomari
-- Juliana Maita
-- Letícia Baptista
-RMs no .txt com o link.
+- Júlia Masson (RM 98134)
+- Julia Ortiz (RM 550204)
+- Julia Palomari (RM 551910)
+- Juliana Maita (RM 99224)
+- Letícia Baptista (RM 550289)
