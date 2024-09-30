@@ -43,3 +43,11 @@ Em suma, o projeto não só contribuiu para a compreensão do impacto dos difere
 
 ## Instruções
 - Executar `main.py`
+
+## Autores
+- Júlia Masson
+- Julia Ortiz
+- Julia Palomari
+- Juliana Maita
+- Letícia Baptista
+RMs no .txt com o link.
